@@ -11,13 +11,10 @@ Happy reading!
 ## In **Issue 76**:
 
 ### Bearing.stl
-
 ![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Issue76/Bearing.png)
 
 ### RollSupport.stl
-
 ![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Issue76/RollSupport.png)
 
 ### ScalePlate.stl
-
 ![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Issue76/ScalePlate.png)
