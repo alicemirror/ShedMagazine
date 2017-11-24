@@ -16,7 +16,7 @@ Happy reading!
 
 ### RollSupport.stl
 
-![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Issue76/RollSuppoer.png)
+![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Issue76/RollSupport.png)
 
 ### ScalePlate.stl
 
