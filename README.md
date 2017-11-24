@@ -12,12 +12,12 @@ Happy reading!
 
 ### Bearing.stl
 
-![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Images/Bearing.png)
+![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Issue76/Bearing.png)
 
 ### RollSupport.stl
 
-![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Images/RollSupport.png)
+![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Issue76/RollSuppoer.png)
 
 ### ScalePlate.stl
 
-![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Images/ScalePlate.png)
+![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Issue76/ScalePlate.png)
