@@ -9,6 +9,15 @@ Happy reading!
 ![DIY 3D Printing part 2](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Images/Issue76.png)
 
 ## In **Issue 76**:
- - Bearing.stl
- - RollSupport.stl
- - ScalePlate.stl
+
+### Bearing.stl
+
+![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Images/Bearing.png)
+
+### RollSupport.stl
+
+![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Images/RollSupport.png)
+
+### ScalePlate.stl
+
+![STL Preview](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Images/ScalePlate.png)
