@@ -6,7 +6,7 @@ Happy reading!
 
 *All the files in this repository are made available for free, released under a Creative Commons license 3.0 NC-ND-SA*
 
-![DIY 3D Printing part 2](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Images/Issue77.jpg)
+![DIY 3D Printing part 2](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Images/Issue77.JPG)
 
 ## In **Issue 77**:
 ![All parts](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Issue77/AllParts.jpg)
