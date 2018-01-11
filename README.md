@@ -11,10 +11,10 @@ Happy reading!
 ## In **Issue 77**:
 ![All parts](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Issue77/AllParts.jpg)
 
-The Issue77 folder will include the following STL files: Model_Body, Model_Body2, Model_DigitalBack, Model_Eyepiece, Model_FrontFrame, Model_ViewFinder
+The **Issue77** folder will include the following STL files: *Model_Body, Model_Body2, Model_DigitalBack, Model_Eyepiece, Model_FrontFrame, Model_ViewFinder*
 
 ## In **Issue 76**:
 ![Full render](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Issue76/ModelRender.png)
 
-The Issue76 folder will include the following STL files: Bearing (objects group), RollSupport (4 opies), ScalePlate
+The **Issue76** folder will include the following STL files: *Bearing (objects group), RollSupport (4 opies), ScalePlate*
 
