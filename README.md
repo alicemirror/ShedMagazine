@@ -1,5 +1,7 @@
 # NEW! 
 ## Materials from the projects of the BBC micro:bit columns
+
+![From last puclished article](https://raw.githubusercontent.com/alicemirror/ShedMagazine/master/Images/microbit01.jpg)
 ## Available on the *microbit* folder
 
 # The Shed Magazine
