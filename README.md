@@ -1,4 +1,5 @@
-## NEW! Materials from the projects of the BBC micro:bit columns
+# NEW! 
+## Materials from the projects of the BBC micro:bit columns
 ## Available on the *microbit* folder
 
 # The Shed Magazine
