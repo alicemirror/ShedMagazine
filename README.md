@@ -1,3 +1,6 @@
+# NEW! Materials from the projects of the BBC micro:bit columns
+## Available on the *microbit* folder
+
 # The Shed Magazine
 This repository includes all the material discussed and shown in every article of the author **Enrico Miglino** (myself :) )
 
